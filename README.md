@@ -8,8 +8,8 @@ A texture recognition model
 - KTH-TIPS (KTH) ([https://www.csc.kth.se/cvap/databases/kth-tips/credits.html](https://www.csc.kth.se/cvap/databases/kth-tips/credits.html))
 - Ground Terrain in Outdoor Scenes mobile (GTOSM) ([https://drive.google.com/file/d/1Hd1G7aKhsPPMbNrk4zHNJAzoXvUzWJ9M/view](https://drive.google.com/file/d/1Hd1G7aKhsPPMbNrk4zHNJAzoXvUzWJ9M/view))
 - SEM dataset
-  <figure class="half">
-    <img src="./SEM_dataset/reed/reed_mag1500.png">
-    <img src="./SEM_dataset/reed/reed_mag3500.png">
-    <img src="./SEM_dataset/reed/reed_mag5000.png">
-</figure>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="./SEM_dataset/reed/reed_mag1500.png" width="30%" />
+  <img src="./SEM_dataset/reed/reed_mag3500.png" width="30%" />
+  <img src="./SEM_dataset/reed/reed_mag5000.png" width="30%" />
+</div>
